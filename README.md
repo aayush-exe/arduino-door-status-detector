@@ -3,7 +3,7 @@ Simple Arduino/ESP32 powered device to alert when a door is opened/closed throug
 
 ![Screenshot 2025-05-04 at 1 41 25 PM](https://github.com/user-attachments/assets/a3234485-bd1f-4a3c-9957-ef81ef98077c)
 
-Have a club/roommate/any shared space and want to know when it's open? This simple device detects when a door is opened and closed, both with toggle and with live state modes.
+Have a club/shared room/any shared space and want to know when it's open? This simple device detects when a door is opened and closed, both with toggle and with live state modes.
 Uses a limit switch (can be changed to other detection methods like beam breakers w/ simple coding) and a Wi-Fi powered Arduino or ESP32 (I used Arduino Nano ESP32 in this)
 
 -> toggle: door state toggled with every limit switch open/close
