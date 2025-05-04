@@ -7,6 +7,7 @@ Have a club/shared room/any shared space and want to know when it's open? This s
 Uses a limit switch (can be changed to other detection methods like beam breakers w/ simple coding) and a Wi-Fi powered Arduino or ESP32 (I used Arduino Nano ESP32 in this)
 
 -> toggle: door state toggled with every limit switch open/close
+
 -> live state: status open when limit switch open, closed when limit switch closed
 
 How to do this:
