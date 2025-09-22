@@ -1,4 +1,4 @@
-# doordetector
+# Arduino-powered door open/close detector with Discord integration
 Simple Arduino/ESP32 powered device to alert when a door is opened/closed through Discord
 
 ![Screenshot 2025-05-04 at 1 41 25 PM](https://github.com/user-attachments/assets/a3234485-bd1f-4a3c-9957-ef81ef98077c)
